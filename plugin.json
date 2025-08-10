@@ -1,0 +1,8 @@
+{
+  "name": "daily_reminder_safe",
+  "version": "1.0.0",
+  "main": "daily_reminder.py",
+  "description": "每天定时提醒特定QQ好友",
+  "author": "你的名字",
+  "license": "MIT"
+}
